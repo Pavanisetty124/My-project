@@ -23,7 +23,7 @@ NumPy
 Installation
 
 Clone the repository:
-https://github.com/satyam2003-cpu/myproject.git
+https://github.com/Pavanisetty124/myproject.git
 
 Install the required packages:
 pip install opencv-python numpy
@@ -34,7 +34,7 @@ Prepare an Image:
 Place the image (e.g., mypic.jpg) in the script's directory.
 
 Run the Script:
-https://github.com/satyam2003-cpu/myproject/blob/main/stego.py
+https://github.com/Pavanisetty124/My-project/blob/main/stegnophory.py
 
 Follow the Prompts:
 Encoding: Enter the secret message and a passcode to embed the message into the image, which will be saved as encryptedImage.jpg.
