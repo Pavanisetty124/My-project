@@ -23,7 +23,7 @@ NumPy
 Installation
 
 Clone the repository:
-https://github.com/Pavanisetty124/myproject.git
+https://github.com/Pavanisetty124/My-project
 
 Install the required packages:
 pip install opencv-python numpy
